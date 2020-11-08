@@ -1,4 +1,4 @@
 # WebSites by GANGST1ER
 1. https://gangst1er.github.io/WebSites/Site_01/
 2. https://gangst1er.github.io/WebSites/Site_02/
-3. https://gangst1er.github.io/WebSites/Site_03/
+3. https://gangst1er.github.io/WebSites/site_03/
