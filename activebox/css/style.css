@@ -421,28 +421,6 @@ body {
   overflow: hidden;
   background-color: #53354a;
 }
-.clients__row {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-.clients__col {
-  -webkit-box-flex: 0;
-      -ms-flex: 0 0 50%;
-          flex: 0 0 50%;
-}
-.clients__img {
-  height: 500px;
-  position: relative;
-}
-.clients__img img {
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  right: 0;
-}
-
 .slider {
   padding-left: 80px;
   display: -webkit-box;
@@ -454,6 +432,11 @@ body {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.slider__item {
+  padding: 20px 0;
+}
+
 .slider__text {
   font-size: 36px;
   line-height: 42px;
@@ -586,6 +569,64 @@ body {
 }
 
 /*--------------------*/
+.clients {
+  overflow: hidden;
+}
+
+.clients__content {
+  flex: 0 0 100%;
+  display: flex;
+}
+.clients__container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 20px;
+/*  background-color: #6b6a6a;*/
+  display: flex;
+  align-items: center;
+}
+.clients__slider {
+  padding: 50px 0px 50px 0;
+  color: #fff;
+}
+
+.clients__img {
+}
+.clients__img img {
+  max-width: 100%;
+}
+
+@media (min-width: 768px) {
+  .clients {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
+  .clients__slider {
+    width: 50%;
+    padding: 50px 20px 50px 0;
+  }
+
+  .clients__container {
+    transform: translateX(50%);
+  }
+
+  .clients__img {
+    position: relative;
+    flex: 0 0 50%;
+    transform: translateX(100%);
+    /*padding-bottom: 37.88%;*/ /* Задать высоту блока по макету, подогать*/
+  }
+
+  .clients__img img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+}
 /*--------------------*/
 @media (max-width: 1400px) {
   .container {
@@ -728,21 +769,6 @@ body {
         -ms-flex: 1 1 100%;
             flex: 1 1 100%;
   }
-
-  .clients__row {
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-  }
-  .clients__col {
-    -webkit-box-flex: 1;
-        -ms-flex: 1 1 100%;
-            flex: 1 1 100%;
-    padding: 10px 0;
-  }
-  .clients__col:nth-child(1) {
-    display: none;
-  }
-
   .slider {
     padding: 0;
   }
