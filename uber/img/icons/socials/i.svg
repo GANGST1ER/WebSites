@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 15" width="14" height="15">
+	<defs>
+		<image width="14" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAMAAADjyg5GAAAAAXNSR0IB2cksfwAAASBQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////c5QCDQAAAGB0Uk5TATWgzM7Tr0IDOOD//dvk60un3Tfvwe7t6fzmQ1fy+6q+vMmlVpPGnrurGyIjGQQAFzIzJKSpiQoRhShnlQhMd5n24Q8n5Z3+82klNDvj32YVDsri8M/nscNF7LTW11IFL84WXgAAAL9JREFUeJxjYGBkYmZhBgIWVjZ2DgZOLm4I4OHl4xdgEITyuIWEBUREGcTAbHEJSSlpGVk5BnkFRQUlZRUBVTV1Jg1NBi1tHW1dPX19fQNDI2MtBlUTUzNzC0smK31rZWUbBllubmZbO25ue30Hbm5HBicg19mF1dVO382d25UBaK2Hp76Xt76PEDc3H4Mv0Bo//4BAgSAgQ4ohGGRtSGhQGIgOYwjnRgIRDJFRCJ6jDANHZHRMbAwQxMZqxMUDALMcG9EcHMJ/AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="футер">
+		<use id="Layer 36" href="#img1" x="0" y="0" />
+	</g>
+</svg>

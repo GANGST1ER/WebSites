@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 15" width="20" height="15">
+	<defs>
+		<image width="20" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAAAAXNSR0IB2cksfwAAAPZQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////SKX8DgAAAFJ0Uk5TABGDvmoFFC4NBoz/9YYWNN6mPBA+/LonCIWoQAestE3v+Hw580wDX+X+2K9QNQSB2mlt7acq6SIh1OosD2JgC0u2+bOH287T7KkcbBlnreDPpakeC6AAAAC3SURBVHicTdBXFoIwEAXQgIri2BEFsWDD3iv2hhVF978ZIQF0fibvniRzEoR+RdEer89eM/4A7mwQQuGIjdFYPMGZPckDQCpNUBABMlIW5cCqPEW0IAMUS+UKRqgixcJavWGGJjFotTsWdns8/FV/gM8P/200ljBOxOkPezOBjJqrri2WZl5hXcsO0qwZqxsKbXf7g21HBj/ypJ0vV2ff7U7u4x7uFG0QcD5H0Z8v1TDen7WuEPkCgSsUbi6UMXYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="футер">
+		<use id="Layer 40" href="#img1" x="0" y="0" />
+	</g>
+</svg>

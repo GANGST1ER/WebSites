@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 18" width="9" height="18">
+	<defs>
+		<image width="9" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAASCAMAAAC+XgR6AAAAAXNSR0IB2cksfwAAALdQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////A93RcQAAAD10Uk5TAGG74OPYqnb/1g3i2duZHPGyCwcMFe+FGjXwlx0gEtf+9+2H9YGNqfnTm59AE4kfj/KRIfOQIpQe3OjshrYlVLgAAAB1SURBVHicdYxFEgJRFAMbD/5xHQZ3d7v/uXgz7Kgim/SiE4BINBZPJA1SCpKGTNY6ly9A0UmlcqUKtbrUMIlmqy11ul4P3/WlwdCNGOubCdPZXFosV2vYmLcNFuzsZf+XvIN0DOl0li4/dLW/W0j3x/P1tv4AIbYKcCxHxhQAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="футер">
+		<use id="Layer 42" href="#img1" x="0" y="0" />
+	</g>
+</svg>
